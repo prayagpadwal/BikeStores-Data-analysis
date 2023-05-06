@@ -1,5 +1,5 @@
 # BikeStores-Data-analysis
 
-## End-To-End project. 
+## End-To-End project. SQL -> Excel -> Tableau.
 
-SQL -> Excel -> Tableau
+
